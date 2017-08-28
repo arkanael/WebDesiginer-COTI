@@ -1,5 +1,5 @@
-# JWORK Contabilidade
-Site desenvolvido na aula de Web Designer da COTI Informática, com base em uma empresa de contabilidade fictícia chamada de JWORK CONTABILIDADES
+# JWORKS Contabilidade
+Site desenvolvido na aula de Web Designer da COTI Informática, com base em uma empresa de contabilidade fictícia chamada de J-WORK CONTABILIDADE, utilizando HTML e CSS.
 
 ## Layout do projeto
 ![Layout do site](https://github.com/arkanael/WebDesiginer-COTI/blob/master/projeto/Layout.jpg?raw=true )
