@@ -36,7 +36,8 @@ a{
 
 #menu{
     float: right;
-    margin-top: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 /*formatando todos os links do id menu*/
